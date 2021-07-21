@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Modificações</string>
+    <string name="digite_nota_1">digite nota 1</string>
+    <string name="digite_nota_2">digite_nota_2</string>
+    <string name="digite_nota_3">digite_nota_3</string>
+    <string name="digite_nota_4">digite_nota_4</string>
+    <string name="calculcar">calcular</string>
+    <string name="resultado">resultado</string>
+    <string name="numero_de_faltas">numero de faltas</string>
+</resources>
